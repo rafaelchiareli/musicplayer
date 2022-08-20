@@ -169,3 +169,7 @@ p {
         width: 0%;
         transform: width 0.1s linear;
         }
+
+        h1 {
+            color: #fff;
+        }
